@@ -7,4 +7,4 @@ Most of the time I'm doing this on Debian 9.
 
 For the most part, they should work though.
 
-If you have any questions or these do not work for you, please open an issue along with the output of cat /etc/*release or cat /proc/version.
+If you have any questions or these do not work for you, please open an issue along with the output of cat /etc/*release
