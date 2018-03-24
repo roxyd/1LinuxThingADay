@@ -1,6 +1,6 @@
 # Day 1 - cat
 
-###### resources: man cat & [https://www.Linfo.org/cat.html](www.Linfo.org/cat.html)
+###### resources: man cat & www.Linfo.org/cat.html
 
 ---
 ### You can use cat to:
